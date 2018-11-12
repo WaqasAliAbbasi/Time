@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F913B601-3FA5-D96F-1AC9-78549610EC65}") = "A Beacon of Culture", "Assembly-CSharp-firstpass.csproj", "{27553E6D-2526-7EF1-91CF-703D9799186F}"
+EndProject
+Project("{F913B601-3FA5-D96F-1AC9-78549610EC65}") = "A Beacon of Culture", "Assembly-CSharp.csproj", "{0E5CD9FC-4ED9-C2B2-863F-60B6522F20D7}"
+EndProject
+Project("{F913B601-3FA5-D96F-1AC9-78549610EC65}") = "A Beacon of Culture", "Assembly-CSharp-Editor.csproj", "{E6519E3C-2F28-3025-DAE7-6870F4E997FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27553E6D-2526-7EF1-91CF-703D9799186F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27553E6D-2526-7EF1-91CF-703D9799186F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27553E6D-2526-7EF1-91CF-703D9799186F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27553E6D-2526-7EF1-91CF-703D9799186F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5CD9FC-4ED9-C2B2-863F-60B6522F20D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5CD9FC-4ED9-C2B2-863F-60B6522F20D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5CD9FC-4ED9-C2B2-863F-60B6522F20D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5CD9FC-4ED9-C2B2-863F-60B6522F20D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6519E3C-2F28-3025-DAE7-6870F4E997FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6519E3C-2F28-3025-DAE7-6870F4E997FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6519E3C-2F28-3025-DAE7-6870F4E997FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6519E3C-2F28-3025-DAE7-6870F4E997FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
